@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/run/media/matyas/Linuxfiles/code/prog1/sdl/build",
+  "command": "/usr/bin/gcc  -I/run/media/matyas/Linuxfiles/code/prog1/sdl/. -I/usr/include/SDL2 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/webp -g -std=gnu11 -o CMakeFiles/sdl.dir/sdltest.c.o -c /run/media/matyas/Linuxfiles/code/prog1/sdl/sdltest.c",
+  "file": "/run/media/matyas/Linuxfiles/code/prog1/sdl/sdltest.c",
+  "output": "CMakeFiles/sdl.dir/sdltest.c.o"
+}
+]
