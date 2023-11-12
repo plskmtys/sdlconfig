@@ -1,3 +1,5 @@
 /run/media/matyas/Linuxfiles/code/prog1/sdl/build/CMakeFiles/sdl.dir
+/run/media/matyas/Linuxfiles/code/prog1/sdl/build/CMakeFiles/package.dir
+/run/media/matyas/Linuxfiles/code/prog1/sdl/build/CMakeFiles/package_source.dir
 /run/media/matyas/Linuxfiles/code/prog1/sdl/build/CMakeFiles/edit_cache.dir
 /run/media/matyas/Linuxfiles/code/prog1/sdl/build/CMakeFiles/rebuild_cache.dir

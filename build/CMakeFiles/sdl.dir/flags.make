@@ -4,7 +4,7 @@
 # compile C with /usr/bin/gcc
 C_DEFINES = 
 
-C_INCLUDES = -I/run/media/matyas/Linuxfiles/code/prog1/sdl/. -I/usr/include/SDL2 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/sysprof-4 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/webp
+C_INCLUDES = -I/run/media/matyas/Linuxfiles/code/prog1/sdl/. -I/usr/include/SDL2 -I/usr/include/sysprof-6 -I/usr/include/libpng16 -I/usr/include/glib-2.0 -I/usr/lib64/glib-2.0/include -I/usr/include/harfbuzz -I/usr/include/freetype2 -I/usr/include/webp
 
-C_FLAGS = -g -std=gnu11
+C_FLAGS = -g -std=gnu2x
 
